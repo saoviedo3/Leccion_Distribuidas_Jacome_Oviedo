@@ -1,0 +1,498 @@
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\Service.dll.config
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\Service.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\Service.pdb
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\csc.exe
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\csc.exe.config
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\csc.rsp
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\csi.exe
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\csi.exe.config
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\csi.rsp
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Console.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\vbc.exe
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\vbc.rsp
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\BLL.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\Entities.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\SLC.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\System.Net.Http.Formatting.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\System.Web.Http.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\System.Web.Http.WebHost.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\DAL.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\EntityFramework.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\BLL.pdb
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\Entities.pdb
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\SLC.pdb
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\System.Net.Http.Formatting.xml
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\System.Web.Http.xml
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\System.Web.Http.WebHost.xml
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\DAL.pdb
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\DAL.dll.config
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\EntityFramework.xml
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\es\System.Web.Http.resources.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\SalesV1\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SalesV1\Service\obj\Debug\Service.csproj.Up2Date
+C:\Users\Usuario\source\repos\SalesV1\Service\obj\Debug\Service.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\obj\Debug\Service.pdb
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\source\repos\SalesV1\Service\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\Service.dll.config
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\Service.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\Service.pdb
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\BLL.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\Entities.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\SLC.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\System.Net.Http.Formatting.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\System.Web.Http.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\System.Web.Http.WebHost.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\DAL.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\BLL.pdb
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\Entities.pdb
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\SLC.pdb
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\System.Net.Http.Formatting.xml
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\System.Web.Http.xml
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\System.Web.Http.WebHost.xml
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\DAL.pdb
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\DAL.dll.config
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\es\System.Web.Http.resources.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\obj\Debug\Service.csproj.Up2Date
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\obj\Debug\Service.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\Service\obj\Debug\Service.pdb
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\Service.dll.config
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\Service.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\Service.pdb
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\csc.exe
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\csc.exe.config
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\csc.rsp
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\csi.exe
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\csi.exe.config
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\csi.rsp
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.AppContext.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Console.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.IO.Compression.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Net.Http.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.ValueTuple.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\vbc.exe
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\vbc.exe.config
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\vbc.rsp
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\BLL.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\Entities.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\EntityFramework.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\EntityFramework.SqlServer.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\Newtonsoft.Json.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\SLC.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\System.Net.Http.Formatting.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\System.Web.Http.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\System.Web.Http.WebHost.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\DAL.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\BLL.pdb
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\Entities.pdb
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\SLC.pdb
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\EntityFramework.xml
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\EntityFramework.SqlServer.xml
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\Newtonsoft.Json.xml
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\System.Net.Http.Formatting.xml
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\System.Web.Http.xml
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\System.Web.Http.WebHost.xml
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\DAL.pdb
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\DAL.dll.config
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\es\System.Web.Http.resources.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\obj\Debug\Service.csproj.Up2Date
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\obj\Debug\Service.dll
+C:\Users\Andres\Documents\ProyectosDistri.NET\SalesV1\Service\obj\Debug\Service.pdb
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\Service.dll.config
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\Service.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\Service.pdb
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\BLL.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\Entities.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\SLC.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\System.Net.Http.Formatting.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\System.Web.Http.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\System.Web.Http.WebHost.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\DAL.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\BLL.pdb
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\Entities.pdb
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\SLC.pdb
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\System.Net.Http.Formatting.xml
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\System.Web.Http.xml
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\System.Web.Http.WebHost.xml
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\DAL.pdb
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\DAL.dll.config
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\es\System.Web.Http.resources.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ORIGINAL\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ORIGINAL\Service\obj\Debug\Service.csproj.Up2Date
+C:\Users\Usuario\Desktop\ORIGINAL\Service\obj\Debug\Service.dll
+C:\Users\Usuario\Desktop\ORIGINAL\Service\obj\Debug\Service.pdb
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\Service.dll.config
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\Service.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\Service.pdb
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\csc.exe
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\csc.exe.config
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\csc.rsp
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\csi.exe
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\csi.exe.config
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\csi.rsp
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.AppContext.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Collections.Immutable.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Console.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Globalization.Calendars.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.IO.Compression.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.IO.FileSystem.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Net.Http.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Net.Sockets.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.ValueTuple.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Xml.XPath.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\vbc.exe
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\vbc.exe.config
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\vbc.rsp
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\VBCSCompiler.exe
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\roslyn\VBCSCompiler.exe.config
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\BLL.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\Entities.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\EntityFramework.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\EntityFramework.SqlServer.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\Newtonsoft.Json.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\SLC.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\System.Net.Http.Formatting.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\System.Web.Http.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\System.Web.Http.WebHost.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\DAL.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\BLL.pdb
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\Entities.pdb
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\SLC.pdb
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\EntityFramework.xml
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\EntityFramework.SqlServer.xml
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\Newtonsoft.Json.xml
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\System.Net.Http.Formatting.xml
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\System.Web.Http.xml
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\System.Web.Http.WebHost.xml
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\DAL.pdb
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\DAL.dll.config
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\es\System.Net.Http.Formatting.resources.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\es\System.Web.Http.resources.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\bin\es\System.Web.Http.WebHost.resources.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\obj\Debug\Service.csproj.Up2Date
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\obj\Debug\Service.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\Service\obj\Debug\Service.pdb
+C:\Users\steve\source\repos\SalesV1\Service\bin\Service.dll.config
+C:\Users\steve\source\repos\SalesV1\Service\bin\Service.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\Service.pdb
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\csc.exe
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\csc.exe.config
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\csc.rsp
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\csi.exe
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\csi.exe.config
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\csi.rsp
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.AppContext.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Console.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.IO.Compression.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Net.Http.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Net.Sockets.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.ValueTuple.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Xml.XPath.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\vbc.exe
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\vbc.exe.config
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\vbc.rsp
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\steve\source\repos\SalesV1\Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\steve\source\repos\SalesV1\Service\bin\BLL.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\Entities.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\EntityFramework.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\EntityFramework.SqlServer.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\Newtonsoft.Json.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\SLC.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\System.Net.Http.Formatting.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\System.Web.Http.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\System.Web.Http.WebHost.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\DAL.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\BLL.pdb
+C:\Users\steve\source\repos\SalesV1\Service\bin\Entities.pdb
+C:\Users\steve\source\repos\SalesV1\Service\bin\SLC.pdb
+C:\Users\steve\source\repos\SalesV1\Service\bin\EntityFramework.xml
+C:\Users\steve\source\repos\SalesV1\Service\bin\EntityFramework.SqlServer.xml
+C:\Users\steve\source\repos\SalesV1\Service\bin\Newtonsoft.Json.xml
+C:\Users\steve\source\repos\SalesV1\Service\bin\System.Net.Http.Formatting.xml
+C:\Users\steve\source\repos\SalesV1\Service\bin\System.Web.Http.xml
+C:\Users\steve\source\repos\SalesV1\Service\bin\System.Web.Http.WebHost.xml
+C:\Users\steve\source\repos\SalesV1\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\steve\source\repos\SalesV1\Service\bin\DAL.pdb
+C:\Users\steve\source\repos\SalesV1\Service\bin\DAL.dll.config
+C:\Users\steve\source\repos\SalesV1\Service\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\es\System.Web.Http.resources.dll
+C:\Users\steve\source\repos\SalesV1\Service\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\steve\source\repos\SalesV1\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\SalesV1\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\SalesV1\Service\obj\Debug\Service.csproj.Up2Date
+C:\Users\steve\source\repos\SalesV1\Service\obj\Debug\Service.dll
+C:\Users\steve\source\repos\SalesV1\Service\obj\Debug\Service.pdb

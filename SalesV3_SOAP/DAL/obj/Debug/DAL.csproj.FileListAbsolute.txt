@@ -1,0 +1,70 @@
+C:\Users\Usuario\source\repos\SalesV1\DAL\bin\Debug\DAL.dll.config
+C:\Users\Usuario\source\repos\SalesV1\DAL\bin\Debug\DAL.dll
+C:\Users\Usuario\source\repos\SalesV1\DAL\bin\Debug\DAL.pdb
+C:\Users\Usuario\source\repos\SalesV1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\source\repos\SalesV1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\source\repos\SalesV1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\source\repos\SalesV1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\source\repos\SalesV1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\SalesV1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SalesV1\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Usuario\source\repos\SalesV1\DAL\obj\Debug\DAL.dll
+C:\Users\Usuario\source\repos\SalesV1\DAL\obj\Debug\DAL.pdb
+C:\Users\Usuario\source\repos\SalesV1\DAL\bin\Debug\Entities.dll
+C:\Users\Usuario\source\repos\SalesV1\DAL\bin\Debug\Entities.pdb
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\DAL\bin\Debug\DAL.dll.config
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\DAL\bin\Debug\DAL.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\DAL\bin\Debug\DAL.pdb
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\DAL\bin\Debug\Entities.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\DAL\bin\Debug\Entities.pdb
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\DAL\obj\Debug\DAL.dll
+C:\Users\Usuario\Desktop\ESPE\DISTRIBUIDAS\PRIMER PARCIAL\SalesV1\DAL\obj\Debug\DAL.pdb
+C:\Users\Usuario\Desktop\ORIGINAL\DAL\bin\Debug\DAL.dll.config
+C:\Users\Usuario\Desktop\ORIGINAL\DAL\bin\Debug\DAL.dll
+C:\Users\Usuario\Desktop\ORIGINAL\DAL\bin\Debug\DAL.pdb
+C:\Users\Usuario\Desktop\ORIGINAL\DAL\bin\Debug\Entities.dll
+C:\Users\Usuario\Desktop\ORIGINAL\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Desktop\ORIGINAL\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\ORIGINAL\DAL\bin\Debug\Entities.pdb
+C:\Users\Usuario\Desktop\ORIGINAL\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Desktop\ORIGINAL\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\ORIGINAL\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ORIGINAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ORIGINAL\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Usuario\Desktop\ORIGINAL\DAL\obj\Debug\DAL.dll
+C:\Users\Usuario\Desktop\ORIGINAL\DAL\obj\Debug\DAL.pdb
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\DAL\bin\Debug\DAL.dll.config
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\DAL\bin\Debug\DAL.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\DAL\bin\Debug\DAL.pdb
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\DAL\bin\Debug\Entities.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\DAL\bin\Debug\EntityFramework.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\DAL\bin\Debug\Entities.pdb
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\DAL\bin\Debug\EntityFramework.xml
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\DAL\obj\Debug\DAL.dll
+C:\OCTAVO\DISTRIBUIDAS\PRIMERPARCIAL\.NET\ORIGINAL\DAL\obj\Debug\DAL.pdb
+C:\Users\steve\source\repos\SalesV1\DAL\bin\Debug\DAL.dll.config
+C:\Users\steve\source\repos\SalesV1\DAL\bin\Debug\DAL.dll
+C:\Users\steve\source\repos\SalesV1\DAL\bin\Debug\DAL.pdb
+C:\Users\steve\source\repos\SalesV1\DAL\bin\Debug\Entities.dll
+C:\Users\steve\source\repos\SalesV1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\steve\source\repos\SalesV1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\steve\source\repos\SalesV1\DAL\bin\Debug\Entities.pdb
+C:\Users\steve\source\repos\SalesV1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\steve\source\repos\SalesV1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\steve\source\repos\SalesV1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\SalesV1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\SalesV1\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\steve\source\repos\SalesV1\DAL\obj\Debug\DAL.dll
+C:\Users\steve\source\repos\SalesV1\DAL\obj\Debug\DAL.pdb

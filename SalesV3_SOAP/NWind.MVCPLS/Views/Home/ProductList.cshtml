@@ -1,0 +1,21 @@
+﻿@model List<Entities.Products>
+
+<body>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Precio unitario</th>
+            <th>Unidades en existencia</th>
+        </tr>
+        @foreach (var Product in Model)
+        {
+    <tr>
+        <td>@Product.ProductID</td>
+        <td>@Product.ProductName</td>
+        <td>@Product.UnitPrice</td>
+        <td>@Product.UnitsInStock</td>
+    </tr>
+}
+    </table>
+</body>
